@@ -1,0 +1,43 @@
+     body {
+          margin-top: 0;
+     }
+     
+     header {
+      background-color: rgb(37, 34, 37);
+      color: #fff;
+      padding: 15px 0;
+      text-align: center;
+     }
+
+     body {
+      background-color: rgb(37, 34, 37);
+     }
+     label, hr, h4 {
+      color:white
+     }
+     .a {
+      text-align: right;
+     }
+     .perfil {
+          border-radius: 30px;
+          width: 100px; 
+          height: auto; 
+          float: left; 
+          margin-right: 20px;
+     }
+
+     .contato {
+          border-radius: 18px;
+          width: 100px; 
+          height: auto; 
+          float: right; 
+          margin-left: 10px;
+          margin-top: auto;
+     }
+     .btn-success{
+          align-items: center;
+     }
+     .copyright{
+          text-align: center;
+          color: white;
+      }
